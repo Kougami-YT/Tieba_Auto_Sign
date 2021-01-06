@@ -1,0 +1,16 @@
+E:\Project C#\Tieba_Auto_Sign\Tieba_Auto_Sign\bin\Debug\netcoreapp3.1\Tieba_Auto_Sign.exe
+E:\Project C#\Tieba_Auto_Sign\Tieba_Auto_Sign\obj\Debug\netcoreapp3.1\Tieba_Auto_Sign.csprojAssemblyReference.cache
+E:\Project C#\Tieba_Auto_Sign\Tieba_Auto_Sign\obj\Debug\netcoreapp3.1\Tieba_Auto_Sign.AssemblyInfoInputs.cache
+E:\Project C#\Tieba_Auto_Sign\Tieba_Auto_Sign\obj\Debug\netcoreapp3.1\Tieba_Auto_Sign.AssemblyInfo.cs
+E:\Project C#\Tieba_Auto_Sign\Tieba_Auto_Sign\bin\Debug\netcoreapp3.1\Tieba_Auto_Sign.deps.json
+E:\Project C#\Tieba_Auto_Sign\Tieba_Auto_Sign\bin\Debug\netcoreapp3.1\Tieba_Auto_Sign.runtimeconfig.json
+E:\Project C#\Tieba_Auto_Sign\Tieba_Auto_Sign\bin\Debug\netcoreapp3.1\Tieba_Auto_Sign.runtimeconfig.dev.json
+E:\Project C#\Tieba_Auto_Sign\Tieba_Auto_Sign\bin\Debug\netcoreapp3.1\Tieba_Auto_Sign.dll
+E:\Project C#\Tieba_Auto_Sign\Tieba_Auto_Sign\bin\Debug\netcoreapp3.1\Tieba_Auto_Sign.pdb
+E:\Project C#\Tieba_Auto_Sign\Tieba_Auto_Sign\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Project C#\Tieba_Auto_Sign\Tieba_Auto_Sign\obj\Debug\netcoreapp3.1\Tieba_Auto_Sign.csproj.CopyComplete
+E:\Project C#\Tieba_Auto_Sign\Tieba_Auto_Sign\obj\Debug\netcoreapp3.1\Tieba_Auto_Sign.dll
+E:\Project C#\Tieba_Auto_Sign\Tieba_Auto_Sign\obj\Debug\netcoreapp3.1\Tieba_Auto_Sign.pdb
+E:\Project C#\Tieba_Auto_Sign\Tieba_Auto_Sign\obj\Debug\netcoreapp3.1\Tieba_Auto_Sign.genruntimeconfig.cache
+E:\Project C#\Tieba_Auto_Sign\Tieba_Auto_Sign\bin\Debug\netcoreapp3.1\RestSharp.dll
+E:\Project C#\Tieba_Auto_Sign\Tieba_Auto_Sign\obj\Debug\netcoreapp3.1\Tieba_Auto_Sign.csproj.CoreCompileInputs.cache
